@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrainsMono Nerd Font :pixelsize=15:antialias=true:autohint=true";
-static char *font2[] = { "JetBrainsMono Nerd Font :pixelsize=15:antialias=true:autohint=true" };
+static char *font = "Terminess Nerd Font :pixelsize=14:antialias=true:autohint=true";
+static char *font2[] = { "JetBrainsMono Nerd Font :pixelsize=14:antialias=true:autohint=true" };
 static int borderpx = 0;
 
 /*
@@ -147,8 +147,8 @@ static const char *colorname[] = {
  * Default colors (colorname index)
  * foreground, background, cursor, reverse cursor
  */
-unsigned int defaultfg = 259;
-unsigned int defaultbg = 258;
+unsigned int defaultfg = 258;
+unsigned int defaultbg = 259;
 unsigned int defaultcs = 256;
 unsigned int defaultrcs = 257;
 
