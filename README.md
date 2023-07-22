@@ -1,3 +1,4 @@
+I'm noob using NixOS so i fork this to make it easy for me to edit the config XD
 # St (Suckless Terminal)
 
 ## Xresources live-reload demo
